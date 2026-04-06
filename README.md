@@ -16,7 +16,7 @@ I build open-source tools that help developers and PMs ship faster with AI. Most
 
 - **[ai-native-pm](https://github.com/anmolgupta824/ai-native-pm)** — Free modules teaching PMs to use Claude Code. PRD generators, image gen workflows, MCP integrations.
 
-- **[claude-context-manager](https://github.com/anmolgupta824/claude-context-manager) | Never re-explain your project again. Daily session files, context restoration, /wrap-up skill.
+- **[claude-context-manager](https://github.com/anmolgupta824/claude-context-manager)** | Never re-explain your project again. Daily session files, context restoration, /wrap-up skill.
 
 #### What I care about
 
