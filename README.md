@@ -10,6 +10,8 @@ I build open-source tools that help developers and PMs ship faster with AI. Most
 
 #### What I'm building
 
+- **[claude-code-for-everyone](https://github.com/anmolgupta824/claude-code-for-everyone)** — Free modules for building with AI. No coding experience needed. 3 modules: Claude Code basics, mastery, and build your first project.
+
 - **[ai-native-agents](https://github.com/anmolgupta824/ai-native-agents)** — 5-agent system (CEO, Engineer, Product, Marketing, Tester) for AI coding tools. Works with Claude Code, Cursor, Copilot, Gemini. Clone it, customize it, ship faster.
 
 - **[ai-newsletter-agent](https://github.com/anmolgupta824/ai-newsletter-agent)** — Autonomous newsletter pipeline. Scores 90+ articles, curates top 25, writes editorial. Any topic, any niche. $0.006/run. Ships with 6 configs (AI, crypto, healthcare, finance, PM, devops).
